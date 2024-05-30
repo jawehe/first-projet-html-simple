@@ -1,1 +1,1 @@
-# first-projet-html-simple
+# About my first project on GitHub
